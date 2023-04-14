@@ -2,6 +2,7 @@
 ![model](./image/model.png)
 The overall flow of our model
 
+---
 ## Requirement
 
 Key Libraries
@@ -11,9 +12,13 @@ Key Libraries
 
 More Detail: ETRI/requirements.txt
 
+---
 ## Datasets
+
+
 [KEMDy20](https://nanum.etri.re.kr/share/kjnoh/KEMDy20?lang=ko_KR)
 
+---
 ## Train & Run
 ### CoKoME
 ```bash
